@@ -1,0 +1,26 @@
+build_output/*
+build_artifacts/*
+*.suo
+*.user
+packages
+
+bin
+obj
+_ReSharper*
+
+*.csproj.user
+*.resharper.user
+*.resharper
+*.ReSharper
+*.cache
+*~
+*.swp
+*.bak
+*.orig
+
+SolutionVersion.cs
+src/SolutionVersion.cs
+tests
+
+# osx noise
+.DS_Store
